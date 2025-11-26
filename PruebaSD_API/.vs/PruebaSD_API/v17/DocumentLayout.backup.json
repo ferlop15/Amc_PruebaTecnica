@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|c:\\users\\ferye\\onedrive\\desktop\\sixdegree\\pruebasd_api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|c:\\users\\ferye\\onedrive\\desktop\\sixdegree\\pruebasd_api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|c:\\users\\ferye\\onedrive\\desktop\\sixdegree\\pruebasd_api\\controllers\\consultingdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|solutionrelative:controllers\\consultingdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|c:\\users\\ferye\\onedrive\\desktop\\sixdegree\\pruebasd_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|c:\\users\\ferye\\onedrive\\desktop\\sixdegree\\pruebasd_api\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F3771-FA0A-4C4D-8392-C9BF53F7F534}|PruebaSD_API.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:42:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:54:07.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:52:35.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbContext.cs",
+              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Models\\DbContext.cs",
+              "RelativeToolTip": "Models\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:39:15.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultingDataController.cs",
+              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Controllers\\ConsultingDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConsultingDataController.cs",
+              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\SixDegree\\PruebaSD_API\\Controllers\\ConsultingDataController.cs",
+              "RelativeToolTip": "Controllers\\ConsultingDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:28:40.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
